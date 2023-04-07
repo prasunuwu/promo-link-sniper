@@ -1,3 +1,2 @@
-print("nah bruwhhh, fuck off")
-print("SKID, run this code to get free promo links lmfao")
-print("made with 📱 by spider")
+print("uwu")
+#run this and u will get free promo links ;)
